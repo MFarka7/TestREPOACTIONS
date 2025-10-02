@@ -2,6 +2,11 @@ body{
    background-color: initial;
 }
 
+header{
+   background-color: yellow;
+   font-family: initial;
+   color:initial;
+}
 #student1{
    background-color: initial;
    font-family:initial;
